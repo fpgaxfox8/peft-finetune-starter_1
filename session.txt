@@ -1,2 +1,3 @@
 # Project Update
 Verify immutable state updates in all reducers
+Fixes #123, rolling back the breaking change in data serialization
